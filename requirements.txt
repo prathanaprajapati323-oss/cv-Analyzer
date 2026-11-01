@@ -1,0 +1,8 @@
+streamlit>=1.30
+pandas
+plotly
+pypdf
+fpdf2>=2.7
+python-docx
+pillow
+pytesseract
